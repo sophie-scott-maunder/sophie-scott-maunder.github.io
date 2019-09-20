@@ -14,6 +14,10 @@ h1 {
 
 }
 
+h2 {
+    font-family: 'DM Serif Display', serif;
+}
+
 .topnav {
     background-color: #374A2E;
     overflow: hidden;
@@ -81,16 +85,11 @@ h1 {
     font-family: 'Shrikhand', cursive;
 }
 
-/* following styles are for other pages */
+/* following styles is for home page */
 
 #content {
     font-family: 'Roboto', sans-serif;
-
 }
-h2 {
-    font-family: 'DM Serif Display', serif;
-}
-
 
 .first-section {
     text-align: left;
@@ -110,6 +109,8 @@ h2 {
     float: right;
     margin: 0 30px 30px 30px;
 }
+
+/* Styles for blog pages */
 
 .blog-content {
     font-family: 'Roboto', sans-serif;
