@@ -1,8 +1,9 @@
+/* Styles used on all pages */
+
 body {
     background-color: #FFBB99;
-    font-family: 'Roboto', sans-serif;
     }
-/* Styles used on all pages */
+
 h1 {
     font-size: 45pt;
     margin-bottom: 30px;
@@ -79,6 +80,8 @@ h1 {
     padding: 14px 16px;
     font-family: 'Shrikhand', cursive;
 }
+
+/* following styles are for other pages */
 
 #content {
     font-family: 'Roboto', sans-serif;
