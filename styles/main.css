@@ -16,7 +16,7 @@ h1 {
 
 h2 {
     font-family: 'DM Serif Display', serif;
-    text-align: center;
+    
 }
 
 .topnav {
@@ -118,6 +118,7 @@ h2 {
     font-size: 13pt;
     margin-left: 250px;
     margin-right: 250px;
+    
 }
 
 #screenshot1 {
